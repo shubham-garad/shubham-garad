@@ -21,7 +21,7 @@
 * My primary coding language: Python
 * My current role: Data Analyst (<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/InMobi_logo.svg" alt="InMobi" width="80" height="10"/>)
 * Passionate for learning & exploring new Tech.
-* Currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="10" height="10"/>
+* Currently learning <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="10" height="10"/>
 * 🏠 Hogwarts House: Hufflepuff
 * Ask me about anything, I'll be happy to help.
 <!--* If you play Call of Duty- add me: Blackhood@00-->
@@ -41,7 +41,6 @@
  ![Visitor Count](https://profile-counter.glitch.me/{shubham-11700069}/count.svg)
 
 
-[Hashnode]: https://shubham.com
 [linkedin]: https://www.linkedin.com/in/shubham-11700069/
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
