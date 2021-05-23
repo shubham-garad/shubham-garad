@@ -21,11 +21,12 @@
 * My primary coding language: Python
 * My current role: Data Analyst (<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/InMobi_logo.svg" alt="InMobi" width="80" height="10"/>)
 * Passionate for learning & exploring new Tech.
-<!--* 🏠 Hogwarts House: Griffindor-->
+* 🏠 Hogwarts House: Hufflepuff
+* <img src="https://www.freepnglogos.com/uploads/bts-logo-png/bts-logo-pin-kuba-szczesiak-png-bts-bts-tattoos-0.png" alt="bts" width="50" height="60"/>
 <!--* If you play Call of Duty- add me: Blackhood@00-->
-<!--* I am currently learning Docker-->
+* I am currently learning R
 <!--* I’m currently working on my portfolio. -->
-<!-- * Ask me about anything, I'll be happy to help.-->
+* Ask me about anything, I'll be happy to help.
 <!-- -->
 <!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 
