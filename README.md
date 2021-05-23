@@ -7,13 +7,13 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="50" height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="50" height="60"/>
-<img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="50" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/scala-4.svg" alt="Scala" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" alt="linux" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="hive" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="50" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/scala-4.svg" alt="Scala" width="50" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="50" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" width="50" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="50" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" alt="linux" width="50" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="hive" width="50" height="60"/>
 </p>
 
  
