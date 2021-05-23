@@ -21,7 +21,7 @@
 * My primary coding language: Python
 * My current role: Data Analyst (<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/InMobi_logo.svg" alt="InMobi" width="80" height="10"/>)
 * Passionate for learning & exploring new Tech.
-* Currently learning <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="10" height="10"/>
+* Currently learning <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="12" height="15"/>
 * 🏠 Hogwarts House: Hufflepuff
 * Ask me about anything, I'll be happy to help.
 <!--* If you play Call of Duty- add me: Blackhood@00-->
