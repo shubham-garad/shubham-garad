@@ -8,8 +8,8 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="60"/>
-<img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="50" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="50" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/scala-4.svg" alt="Scala" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40"/>
 </p>
