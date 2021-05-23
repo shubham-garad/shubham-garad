@@ -11,7 +11,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="80" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" width="60" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40"/>
 </p>
 
  
