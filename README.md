@@ -11,15 +11,15 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="60" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" width="50" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
 </p>
 
  
 
 * My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python programming.
+* My current role: Data Analyst (<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/InMobi_logo.svg" alt="InMobi" width="80" height="40"/>)
 * Passionate for learning & exploring new Tech.
 <!--* 🏠 Hogwarts House: Griffindor-->
 <!--* If you play Call of Duty- add me: Blackhood@00-->
@@ -34,7 +34,7 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubham-11700069&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubham-11700069&show_icons=true&theme=gotham" alt="Shubham Garad | Stats" />
 
 </details>
 
