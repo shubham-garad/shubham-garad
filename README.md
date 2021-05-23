@@ -22,9 +22,6 @@
 * My current role: Data Analyst (<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/InMobi_logo.svg" alt="InMobi" width="80" height="10"/>)
 * Passionate for learning & exploring new Tech.
 * 🏠 Hogwarts House: Hufflepuff
-* 
-* Listens to <img src="https://www.freepnglogos.com/uploads/bts-logo-png/bts-logo-love-yourself-edit-hiroshi-mitsuki-12.png" alt="bts" width="50" height="40"/>
-* 
 <!--* If you play Call of Duty- add me: Blackhood@00-->
 * I am currently learning R
 <!--* I’m currently working on my portfolio. -->
