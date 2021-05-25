@@ -30,17 +30,15 @@
 
 ---
 
- <details>
+
 <summary>📊 Github Stats</summary>
+<br />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-11700069&show_icons=true&theme=synthwave" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-11700069&layout=compact"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubham-11700069&show_icons=true&theme=gotham" alt="Shubham Garad | Stats" />
-
-</details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{shubham-11700069}/count.svg)
 
 
 [linkedin]: https://www.linkedin.com/in/shubham-11700069/
-
+<br /><br /><br /><br /><br /><br /><br /><br />
+---
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
