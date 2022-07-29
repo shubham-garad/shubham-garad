@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shubham Garad](https://www.linkedin.com/in/shubham-11700069/) 
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shubham Garad](https://www.linkedin.com/in/shubham-garad/) 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
@@ -38,7 +38,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/shubham-11700069/
+[linkedin]: https://www.linkedin.com/in/shubham-garad/
 
 ---
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
