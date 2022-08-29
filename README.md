@@ -19,7 +19,7 @@
  
 
 * My primary coding language: Python
-* My current role: Data Analyst (<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/InMobi_logo.svg" alt="InMobi" width="80" height="10"/>)
+* My current role: Data Analyst (<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu2UTU-FtJ8efbuEjSxGE7PfTyAz8TOYiUrdyv_wf_&s" alt="InMobi" width="80" height="10"/>)
 * Passionate for learning & exploring new Tech.
 * Currently learning <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="12" height="20"/>
 * 🏠 Hogwarts House: Hufflepuff
@@ -33,8 +33,8 @@
 
 <summary>📊 Github Stats</summary>
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-11700069&show_icons=true&theme=synthwave" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-11700069&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-garad&show_icons=true&theme=synthwave" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-garad&layout=compact"/>
 
 
 
